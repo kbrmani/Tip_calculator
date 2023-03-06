@@ -28,13 +28,14 @@
     padding: 20px;
 
 
+
   }
 
   .container3 {
     height: 100%;
     display: flex;
-    padding: 10px;
     gap: 1rem;
+    
 
   }
 
@@ -237,7 +238,6 @@
 
   .logo1 {
     text-align: center;
-   
     position: relative;
     bottom: 4em;
 
